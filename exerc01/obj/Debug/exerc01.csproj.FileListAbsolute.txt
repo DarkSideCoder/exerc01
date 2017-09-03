@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\bin\Debug\exerc01.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\bin\Debug\exerc01.exe
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\bin\Debug\exerc01.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\obj\Debug\exerc01.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\obj\Debug\exerc01.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\obj\Debug\exerc01.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\obj\Debug\exerc01.exe
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\obj\Debug\exerc01.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\exerc01\exerc01\obj\Debug\exerc01.Form1.resources
